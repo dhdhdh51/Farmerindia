@@ -1,0 +1,4 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="fertilizer" android:textSize="24sp" android:textStyle="bold"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="This module is wired for offline Room storage and can be extended with forms, charts, map picker, PDF export, and import/export."/>
+</LinearLayout>
